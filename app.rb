@@ -7,7 +7,7 @@ class App < Sinatra::Base
   end
   
   post 'piglatinize' do
-    erb :
+    erb :user_input
   end 
   
 end
